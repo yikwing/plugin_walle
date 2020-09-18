@@ -8,6 +8,14 @@
 
 ## 项目内使用
 
+
+```yaml
+plugin_walle:
+  git:
+    url: https://github.com/yikwing/plugin_walle
+    ref: master
+```
+
 - 获取渠道信息
 
 ```dart
